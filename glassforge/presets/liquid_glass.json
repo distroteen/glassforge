@@ -1,0 +1,21 @@
+{
+  "glassforge_profile": {
+    "id": "liquid-showcase",
+    "name": "Liquid Glass Showcase",
+    "effect_type": "liquid_glass",
+    "blur_radius": 34,
+    "noise": 0.05,
+    "opacity": 0.66,
+    "tint_color": "#8ec5ff",
+    "tint_strength": 0.25,
+    "border_radius": 24,
+    "border_width": 1.4,
+    "border_color": "rgba(255,255,255,0.4)",
+    "shadow_strength": 0.4,
+    "saturation_boost": 1.25,
+    "animate_ripple": true,
+    "animation_speed_ms": 3800,
+    "follow_accent_color": true,
+    "dark_mode_aware": true
+  }
+}

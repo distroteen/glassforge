@@ -1,0 +1,21 @@
+{
+  "glassforge_profile": {
+    "id": "acrylic-showcase",
+    "name": "Frosted Acrylic",
+    "effect_type": "acrylic",
+    "blur_radius": 44,
+    "noise": 0.08,
+    "opacity": 0.5,
+    "tint_color": "#ffffff",
+    "tint_strength": 0.1,
+    "border_radius": 12,
+    "border_width": 1.0,
+    "border_color": "rgba(255,255,255,0.3)",
+    "shadow_strength": 0.3,
+    "saturation_boost": 1.05,
+    "animate_ripple": false,
+    "animation_speed_ms": 0,
+    "follow_accent_color": false,
+    "dark_mode_aware": true
+  }
+}

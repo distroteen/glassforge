@@ -1,0 +1,4 @@
+# GlassForge - dependências Python
+# GTK4, libadwaita e Gtk4LayerShell vêm dos pacotes de sistema (ver INSTALL.md);
+# aqui ficam apenas as dependências puramente Python.
+PyGObject>=3.46

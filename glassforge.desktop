@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=GlassForge
+GenericName=Efeitos de vidro para janelas
+Comment=Blur, glassmorphism e liquid glass totalmente customizáveis para Linux
+Exec=glassforge
+Icon=preferences-desktop-display
+Terminal=false
+Categories=Utility;Settings;
+Keywords=blur;glass;transparency;wayland;hyprland;compositor;
+StartupNotify=true

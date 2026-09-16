@@ -1,0 +1,21 @@
+{
+  "glassforge_profile": {
+    "id": "dark-showcase",
+    "name": "Dark Glass",
+    "effect_type": "glassmorphism",
+    "blur_radius": 20,
+    "noise": 0.03,
+    "opacity": 0.82,
+    "tint_color": "#141821",
+    "tint_strength": 0.4,
+    "border_radius": 16,
+    "border_width": 1.0,
+    "border_color": "rgba(255,255,255,0.15)",
+    "shadow_strength": 0.5,
+    "saturation_boost": 1.0,
+    "animate_ripple": false,
+    "animation_speed_ms": 0,
+    "follow_accent_color": true,
+    "dark_mode_aware": false
+  }
+}

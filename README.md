@@ -47,7 +47,7 @@ escolher manualmente na aba **Compositor**.
 ## 🚀 Instalação rápida
 
 ```bash
-git clone https://github.com/SEU_USUARIO/glassforge.git
+git clone https://github.com/distroteen/glassforge.git
 cd glassforge
 ./install.sh
 glassforge

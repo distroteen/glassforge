@@ -3,7 +3,7 @@
 ## 1. Instalação automática (recomendada)
 
 ```bash
-git clone https://github.com/SEU_USUARIO/glassforge.git
+git clone https://github.com/distroteen/glassforge.git
 cd glassforge
 chmod +x install.sh
 ./install.sh
